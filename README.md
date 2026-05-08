@@ -68,6 +68,6 @@ The **Hydra Protocol** will automatically detect the "Rate Limit" error and cycl
 ---
 
 <div align="center">
-  <p><b>Altus Phantom — Designed for the 1%. Mastery through Sovereignty.</b></p>
+  <p><b>SEMBIOTE System — Designed for the 1%. Mastery through Sovereignty.</b></p>
   <p>🛸 <i>Dominate the Realm. Remain a Ghost.</i></p>
 </div>

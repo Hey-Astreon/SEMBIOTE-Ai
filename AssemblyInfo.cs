@@ -2,8 +2,8 @@ using System;
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Windows Diagnostic Host")]
-[assembly: AssemblyDescription("Windows Diagnostic Host Service for Accessibility Framework")]
+[assembly: AssemblyTitle("SEMBIOTE System Diagnostic Host")]
+[assembly: AssemblyDescription("SEMBIOTE Diagnostic Host Service for Accessibility Framework")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft Corporation")]
 [assembly: AssemblyProduct("Microsoft® Windows® Operating System")]

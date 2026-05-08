@@ -11,7 +11,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Windows.Automation;
 
-namespace AltusPhantom {
+namespace Sembiote.Phantom {
     public class PhantomHUD : Form {
         [DllImport("user32.dll")]
         public static extern int SetWindowLong(IntPtr hWnd, int nIndex, int dwNewLong);

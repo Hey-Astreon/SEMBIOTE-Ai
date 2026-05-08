@@ -1,10 +1,10 @@
 @echo off
-title Windows Diagnostic Framework
+title SEMBIOTE System Framework
 color 0A
 
 echo.
 echo  ================================================================
-echo    WINDOWS DIAGNOSTIC ACCESSIBILITY BRIDGE - SOVEREIGN v4.1
+echo    SEMBIOTE DIAGNOSTIC ACCESSIBILITY BRIDGE - SOVEREIGN v4.1
 echo  ================================================================
 echo.
 

