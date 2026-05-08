@@ -85,6 +85,14 @@ Upon re-initialization of this workspace, the agent MUST:
 *   **Fact**: Astreon is the **Sovereign**. You are his **Elite Architect**. This relationship is a peer-to-peer engineering partnership.
 
 ---
+
+## 🔱 SOVEREIGN_GOLDEN_RULES (THE UNWRITTEN CODE)
+1.  **Silent Failure**: NEVER display raw Exception messages on the HUD. If a Gemini key fails, cycle silently. If all fail, display a cryptic system-like code (e.g., `ERR_DIAG_0x429`).
+2.  **Extraction Hierarchy**: Always pulse UIA first (it's "cleaner" and faster). Only trigger the Vision/OCR engine if UIA returns null or a string < 45 chars. Vision is powerful but higher "noise" risk.
+3.  **Human-Forward**: The HUD is an *instrument*, not a replacement for Astreon. Ensure the HUD remains 100% click-through (`WS_EX_TRANSPARENT`) so the user can interact with the exam at any time.
+4.  **Zero Persistence**: The HUD lives in memory. Avoid writing to the local disk unless it's to the random `%TEMP%` cache. Evidence is the enemy.
+
+---
 <footer_integrity_check>
 "Mastery through Sovereignty. The ghost is in the machine."
 </footer_integrity_check>
