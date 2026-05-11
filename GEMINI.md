@@ -102,6 +102,13 @@ Upon re-initialization of this workspace, the agent MUST:
 4.  **Zero Persistence**: The HUD lives in memory. Avoid writing to the local disk unless it's to the random `%TEMP%` cache. Evidence is the enemy.
 
 ---
+
+## 🏁 PERPETUAL_OPTIMIZATION_MANDATE (THE DISRUPTOR'S ETHOS)
+1.  **Delayed Celebration**: A clean compile is not a victory. Victory is only validated by real-world, undetected performance in hostile environments.
+2.  **Surgical Criticism**: Treat every line of code as a liability. Hunt for vulnerabilities in our own architecture before the enemy does.
+3.  **1+1=11**: Maintain the lean, deadly synergy of the Duo. No bloat, no filler, only high-impact results.
+
+---
 <footer_integrity_check>
 "Mastery through Sovereignty. The ghost is in the machine."
 </footer_integrity_check>
